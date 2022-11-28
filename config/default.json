@@ -1,0 +1,3 @@
+{
+    "db": "mongodb://localhost/report_card_management"
+  }
